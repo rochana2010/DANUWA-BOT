@@ -20,7 +20,7 @@ const defaultConfig = {
   REMOVE_BG_API_KEY:"xm8Xvv7Dqt9zGsZNbM1UXaj1", // Add removebg API key here
   WEATHER_API_KEY: "002ac2c526c84114939185307253105", // Add your weather API key here
   BOT_OWNER: "94757017709", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94757017709"], // Replace your bot owner number here (same as bot owner number)
+  ownerNumber: ["94766443560"], // Replace your bot owner number here (same as bot owner number)
   AUTO_READ_STATUS: "true", // Turn on or off auto read status from here
   MODE: "public", // 'private', 'public'
 };
